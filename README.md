@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  -->
 
 
-![header](https://capsule-render.vercel.app/api?type=니ㅑㅊㄷ&color=auto&height=300&section=header&text=connie%20Park&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=connie%20Park&fontSize=90)
 
 <div align=center>
   </br>
